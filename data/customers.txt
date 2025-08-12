@@ -1,0 +1,13 @@
+Customer name	Joining customers T.purchase Phone
+aa                  2024-03-11  1.99   1234
+
+L.I	ID  	Text1	        Text2		    Price	SellingDate
+12345  4*1N4001-Diode      Diode               1.99 2024-03-13
+
+gg                  2024-03-13  0.00   22
+
+
+ee                  2024-04-19  1.99   22
+
+L.I	ID  	Text1	        Text2		    Price	SellingDate
+12345  4*1N4001-Diode      Diode               1.99 2024-04-19

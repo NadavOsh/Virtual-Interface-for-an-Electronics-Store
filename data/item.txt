@@ -1,0 +1,8 @@
+ID, Product, Category, Price, In Stock, Date, Inventory
+10043, NPN Transistor, Transistor, 12.99, 0, 02-01-2024, 0
+12345, 4*1N4001-Diode, Diode, 1.99, 1, 02-01-2024, 19
+14873, 2*Photoresistor, Resistor, 10.00, 1, 06-03-2024, 1
+22343, 8*Red-LED, LED, 8.00, 1, 21-04-2023, 2
+45362, Capacitor(10MicroF), Capacitor, 4.12, 1, 01-01-2024, 7
+54634, 4*Green-LED, LED, 3.00, 0, 06-03-2024, 0
+76546, 16*Resistor(220Ohm), Resistor, 10.00, 1, 01-11-2022, 2

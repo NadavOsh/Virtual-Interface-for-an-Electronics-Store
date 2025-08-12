@@ -1,0 +1,208 @@
+System start - Wed Mar 13 21:02:01 2024
+Exit System- Wed Mar 13 21:02:15 2024
+System start - Wed Mar 13 21:03:05 2024
+An Item Got Returned - Wed Mar 13 21:04:22 2024
+Exit System- Wed Mar 13 21:05:18 2024
+System start - Wed Mar 13 21:05:45 2024
+An Item Got Returned - Wed Mar 13 21:06:23 2024
+Exit System- Wed Mar 13 21:06:30 2024
+System start - Wed Mar 13 21:06:59 2024
+An Item Got Returned - Wed Mar 13 21:07:16 2024
+Exit System- Wed Mar 13 21:08:09 2024
+System start - Wed Mar 13 21:08:37 2024
+An Item Got Returned - Wed Mar 13 21:08:55 2024
+Exit System- Wed Mar 13 21:09:00 2024
+System start - Wed Mar 13 21:09:24 2024
+An Item Got Returned - Wed Mar 13 21:09:37 2024
+Exit System- Wed Mar 13 21:10:34 2024
+System start - Wed Mar 13 21:13:07 2024
+An Item Got Returned - Wed Mar 13 21:17:23 2024
+An Item Got Returned - Wed Mar 13 21:17:47 2024
+Exit System- Wed Mar 13 21:17:56 2024
+System start - Wed Mar 13 21:18:13 2024
+A Sell Was Made - Wed Mar 13 21:18:41 2024
+Exit System- Wed Mar 13 21:19:10 2024
+System start - Wed Mar 13 21:19:39 2024
+An Item Got Returned - Wed Mar 13 21:19:52 2024
+Exit System- Wed Mar 13 21:20:45 2024
+System start - Wed Mar 13 21:20:55 2024
+A Sell Was Made - Wed Mar 13 21:21:16 2024
+Exit System- Wed Mar 13 21:21:19 2024
+System start - Wed Mar 13 21:21:49 2024
+An Item Got Returned - Wed Mar 13 21:22:20 2024
+A Sell Was Made - Wed Mar 13 21:22:51 2024
+Exit System- Wed Mar 13 21:22:53 2024
+System start - Wed Mar 13 21:24:30 2024
+An Item Got Returned - Wed Mar 13 21:24:51 2024
+Exit System- Wed Mar 13 21:25:07 2024
+System start - Wed Mar 13 21:25:24 2024
+A Sell Was Made - Wed Mar 13 21:25:40 2024
+Exit System- Wed Mar 13 21:25:43 2024
+System start - Wed Mar 13 21:26:19 2024
+An Item Got Returned - Wed Mar 13 21:26:39 2024
+Exit System- Wed Mar 13 21:26:43 2024
+System start - Wed Mar 13 21:28:07 2024
+Exit System- Wed Mar 13 21:28:27 2024
+System start - Wed Mar 13 21:28:45 2024
+An Item Got Returned - Wed Mar 13 21:29:10 2024
+An Item Got Returned - Wed Mar 13 21:29:10 2024
+Exit System- Wed Mar 13 21:29:14 2024
+System start - Wed Mar 13 21:30:47 2024
+A New Customer Was Added - Wed Mar 13 21:31:08 2024
+Exit System- Wed Mar 13 21:32:16 2024
+System start - Wed Mar 13 21:34:28 2024
+A Sell Was Made - Wed Mar 13 21:35:34 2024
+Exit System- Wed Mar 13 21:35:39 2024
+System start - Thu Mar 14 13:02:48 2024
+A list of employees was recorded in the file - Thu Mar 14 13:03:10 2024
+A list of employees was recorded in the file - Thu Mar 14 13:03:10 2024
+A list of employees was recorded in the file - Thu Mar 14 13:03:10 2024
+A list of employees was recorded in the file - Thu Mar 14 13:03:10 2024
+A list of employees was recorded in the file - Thu Mar 14 13:03:10 2024
+Exit System- Thu Mar 14 13:03:10 2024
+System start - Thu Mar 14 13:07:12 2024
+Employee has been removed from the system - Thu Mar 14 13:07:28 2024
+A list of employees was recorded in the file - Thu Mar 14 13:07:33 2024
+A list of employees was recorded in the file - Thu Mar 14 13:07:33 2024
+A list of employees was recorded in the file - Thu Mar 14 13:07:33 2024
+A list of employees was recorded in the file - Thu Mar 14 13:07:34 2024
+Exit System- Thu Mar 14 13:07:34 2024
+System start - Thu Mar 14 13:15:45 2024
+A list of employees was recorded in the file - Thu Mar 14 13:16:34 2024
+A list of employees was recorded in the file - Thu Mar 14 13:16:34 2024
+A list of employees was recorded in the file - Thu Mar 14 13:16:34 2024
+A list of employees was recorded in the file - Thu Mar 14 13:16:34 2024
+Exit System- Thu Mar 14 13:16:34 2024
+System start - Thu Mar 14 13:16:39 2024
+A list of employees was recorded in the file - Thu Mar 14 13:17:03 2024
+A list of employees was recorded in the file - Thu Mar 14 13:17:03 2024
+A list of employees was recorded in the file - Thu Mar 14 13:17:03 2024
+A list of employees was recorded in the file - Thu Mar 14 13:17:03 2024
+Exit System- Thu Mar 14 13:17:03 2024
+System start - Thu Mar 14 13:17:19 2024
+A list of employees was recorded in the file - Thu Mar 14 13:17:35 2024
+A list of employees was recorded in the file - Thu Mar 14 13:17:35 2024
+A list of employees was recorded in the file - Thu Mar 14 13:17:35 2024
+A list of employees was recorded in the file - Thu Mar 14 13:17:35 2024
+Exit System- Thu Mar 14 13:17:35 2024
+System start - Thu Mar 14 13:17:38 2024
+A list of employees was recorded in the file - Thu Mar 14 13:17:46 2024
+A list of employees was recorded in the file - Thu Mar 14 13:17:46 2024
+A list of employees was recorded in the file - Thu Mar 14 13:17:46 2024
+A list of employees was recorded in the file - Thu Mar 14 13:17:46 2024
+Exit System- Thu Mar 14 13:17:46 2024
+System start - Thu Mar 14 13:18:17 2024
+A list of employees was recorded in the file - Thu Mar 14 13:18:33 2024
+A list of employees was recorded in the file - Thu Mar 14 13:18:33 2024
+A list of employees was recorded in the file - Thu Mar 14 13:18:33 2024
+A list of employees was recorded in the file - Thu Mar 14 13:18:33 2024
+Exit System- Thu Mar 14 13:18:33 2024
+System start - Thu Mar 14 13:20:45 2024
+A list of employees was recorded in the file - Thu Mar 14 13:23:29 2024
+A list of employees was recorded in the file - Thu Mar 14 13:23:29 2024
+A list of employees was recorded in the file - Thu Mar 14 13:23:29 2024
+A list of employees was recorded in the file - Thu Mar 14 13:23:29 2024
+Exit System- Thu Mar 14 13:23:29 2024
+System start - Thu Mar 14 13:23:45 2024
+An Employee level Got Changed - Thu Mar 14 13:24:06 2024
+A list of employees was recorded in the file - Thu Mar 14 13:24:11 2024
+A list of employees was recorded in the file - Thu Mar 14 13:24:11 2024
+A list of employees was recorded in the file - Thu Mar 14 13:24:11 2024
+A list of employees was recorded in the file - Thu Mar 14 13:24:11 2024
+Exit System- Thu Mar 14 13:24:11 2024
+System start - Thu Mar 14 13:24:54 2024
+A list of employees was recorded in the file - Thu Mar 14 13:25:08 2024
+A list of employees was recorded in the file - Thu Mar 14 13:25:08 2024
+A list of employees was recorded in the file - Thu Mar 14 13:25:08 2024
+A list of employees was recorded in the file - Thu Mar 14 13:25:08 2024
+Exit System- Thu Mar 14 13:25:08 2024
+System start - Thu Mar 14 13:34:28 2024
+A list of employees was recorded in the file - Thu Mar 14 13:35:05 2024
+A list of employees was recorded in the file - Thu Mar 14 13:35:05 2024
+A list of employees was recorded in the file - Thu Mar 14 13:35:05 2024
+A list of employees was recorded in the file - Thu Mar 14 13:35:05 2024
+Exit System- Thu Mar 14 13:35:05 2024
+System start - Thu Mar 14 13:36:10 2024
+A list of employees was recorded in the file - Thu Mar 14 13:36:38 2024
+A list of employees was recorded in the file - Thu Mar 14 13:36:38 2024
+A list of employees was recorded in the file - Thu Mar 14 13:36:38 2024
+A list of employees was recorded in the file - Thu Mar 14 13:36:38 2024
+Exit System- Thu Mar 14 13:36:38 2024
+System start - Thu Mar 14 13:40:55 2024
+A list of employees was recorded in the file - Thu Mar 14 13:41:21 2024
+A list of employees was recorded in the file - Thu Mar 14 13:41:21 2024
+A list of employees was recorded in the file - Thu Mar 14 13:41:21 2024
+A list of employees was recorded in the file - Thu Mar 14 13:41:21 2024
+Exit System- Thu Mar 14 13:41:21 2024
+System start - Thu Mar 14 13:44:04 2024
+A list of employees was recorded in the file - Thu Mar 14 13:44:48 2024
+A list of employees was recorded in the file - Thu Mar 14 13:44:48 2024
+A list of employees was recorded in the file - Thu Mar 14 13:44:48 2024
+A list of employees was recorded in the file - Thu Mar 14 13:44:48 2024
+Exit System- Thu Mar 14 13:44:48 2024
+System start - Thu Mar 14 13:46:19 2024
+A list of employees was recorded in the file - Thu Mar 14 13:46:53 2024
+A list of employees was recorded in the file - Thu Mar 14 13:46:53 2024
+A list of employees was recorded in the file - Thu Mar 14 13:46:53 2024
+A list of employees was recorded in the file - Thu Mar 14 13:46:53 2024
+Exit System- Thu Mar 14 13:46:53 2024
+System start - Thu Mar 14 13:55:34 2024
+A list of employees was recorded in the file - Thu Mar 14 13:55:49 2024
+A list of employees was recorded in the file - Thu Mar 14 13:55:49 2024
+A list of employees was recorded in the file - Thu Mar 14 13:55:49 2024
+A list of employees was recorded in the file - Thu Mar 14 13:55:49 2024
+Exit System- Thu Mar 14 13:55:49 2024
+System start - Sun Mar 17 13:23:11 2024
+A list of employees was recorded in the file - Sun Mar 17 13:23:54 2024
+A list of employees was recorded in the file - Sun Mar 17 13:23:54 2024
+A list of employees was recorded in the file - Sun Mar 17 13:23:54 2024
+A list of employees was recorded in the file - Sun Mar 17 13:23:54 2024
+Exit System- Sun Mar 17 13:23:54 2024
+System start - Sun Mar 17 13:24:08 2024
+A list of employees was recorded in the file - Sun Mar 17 13:24:56 2024
+A list of employees was recorded in the file - Sun Mar 17 13:24:56 2024
+A list of employees was recorded in the file - Sun Mar 17 13:24:56 2024
+A list of employees was recorded in the file - Sun Mar 17 13:24:56 2024
+Exit System- Sun Mar 17 13:24:56 2024
+System start - Sun Mar 17 13:40:12 2024
+A list of employees was recorded in the file - Sun Mar 17 13:40:34 2024
+A list of employees was recorded in the file - Sun Mar 17 13:40:34 2024
+A list of employees was recorded in the file - Sun Mar 17 13:40:34 2024
+A list of employees was recorded in the file - Sun Mar 17 13:40:34 2024
+Exit System- Sun Mar 17 13:40:34 2024
+System start - Sun Mar 17 13:41:59 2024
+A list of employees was recorded in the file - Sun Mar 17 13:43:35 2024
+A list of employees was recorded in the file - Sun Mar 17 13:43:35 2024
+A list of employees was recorded in the file - Sun Mar 17 13:43:35 2024
+A list of employees was recorded in the file - Sun Mar 17 13:43:35 2024
+Exit System- Sun Mar 17 13:43:35 2024
+System start - Sun Mar 17 13:51:25 2024
+A list of employees was recorded in the file - Sun Mar 17 13:51:38 2024
+A list of employees was recorded in the file - Sun Mar 17 13:51:38 2024
+A list of employees was recorded in the file - Sun Mar 17 13:51:38 2024
+A list of employees was recorded in the file - Sun Mar 17 13:51:38 2024
+Exit System- Sun Mar 17 13:51:38 2024
+System start - Sun Mar 17 14:19:48 2024
+The items was recorded in the file - Sun Mar 17 14:21:03 2024
+A list of employees was recorded in the file - Sun Mar 17 14:21:03 2024
+A list of employees was recorded in the file - Sun Mar 17 14:21:03 2024
+A list of employees was recorded in the file - Sun Mar 17 14:21:03 2024
+A list of employees was recorded in the file - Sun Mar 17 14:21:03 2024
+Exit System- Sun Mar 17 14:21:03 2024
+System start - Wed Mar 20 01:20:35 2024
+The items was recorded in the file - Wed Mar 20 01:20:59 2024
+A list of employees was recorded in the file - Wed Mar 20 01:20:59 2024
+The customer was recorded in the file - Wed Mar 20 01:20:59 2024
+Exit System- Wed Mar 20 01:20:59 2024
+System start - Sun Apr 14 11:29:27 2024
+The items was recorded in the file - Sun Apr 14 11:30:07 2024
+A list of employees was recorded in the file - Sun Apr 14 11:30:07 2024
+The customer was recorded in the file - Sun Apr 14 11:30:07 2024
+Exit System- Sun Apr 14 11:30:07 2024
+System start - Fri Apr 19 13:05:54 2024
+A New Customer Was Added - Fri Apr 19 13:06:52 2024
+A Sell Was Made - Fri Apr 19 13:07:04 2024
+The items was recorded in the file - Fri Apr 19 13:07:22 2024
+A list of employees was recorded in the file - Fri Apr 19 13:07:22 2024
+The customer was recorded in the file - Fri Apr 19 13:07:22 2024
+Exit System- Fri Apr 19 13:07:22 2024
