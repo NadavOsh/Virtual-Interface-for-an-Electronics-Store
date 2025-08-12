@@ -1,7 +1,3 @@
-/*
-תובל לנגנס - 205801095
-נדב אושרוב - 318799806
-*/
 #define _CRT_SECURE_NO_WARNINGS
 #include"items.h"
 #include "customer.h"
@@ -912,4 +908,5 @@ void ChangeInventory(ItemNode* root, int id, int inventory, int* fla)
         (*fla)++;
         return;
     }
+
 }
