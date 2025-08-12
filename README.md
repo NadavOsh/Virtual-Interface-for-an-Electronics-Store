@@ -30,8 +30,8 @@ Employees are stored in `employees.txt` and updated automatically.
 ---
 
 ### Items
-- Item struct holding all product attributes
-- Binary search tree (BST) for fast lookup by ID or other attributes
+- Item struct holding all product attributes (id, product's name, category, price, in stock, date, and inventory)
+- Binary search tree (BST) for fast lookup by ID or other attributes (items can be searched by all attributes)
 - Stored in `items.txt` sorted by ID
 
 ---
