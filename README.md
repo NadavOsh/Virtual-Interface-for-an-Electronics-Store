@@ -4,6 +4,8 @@
 This program implements a **virtual interface for an electronic store** in C.  
 It uses multiple libraries, custom data structures, algorithms, and file handling to simulate store operations.
 
+This program was originally created for an "Lab for Advanced Programing in C" course in HIT. The instructions for this project can be found in "instructions" file. The project ended up with 100 points.
+
 ## Features
 - Employee authentication with 3 permission levels
 - Add, remove, and search for items
