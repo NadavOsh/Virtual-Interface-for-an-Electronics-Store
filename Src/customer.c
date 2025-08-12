@@ -1,7 +1,3 @@
-/*
-תובל לנגנס - 205801095
-נדב אושרוב - 318799806
-*/
 #define _CRT_SECURE_NO_WARNINGS
 #include "customer.h"
 #include <stdio.h>
@@ -787,4 +783,5 @@ int checkIfCustomersFileExists(char* customersFile)
 
     fclose(customersf);
     return 1;
+
 }
