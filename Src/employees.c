@@ -1,7 +1,3 @@
-/*
-תובל לנגנס - 205801095
-נדב אושרוב - 318799806
-*/
 #define _CRT_SECURE_NO_WARNINGS
 #include"employees.h"
 #include <stdio.h>
@@ -423,4 +419,5 @@ Employee* employeeLogin(employeeList* list) {
         return NULL;
     }
     return currentNode->data;
+
 }
