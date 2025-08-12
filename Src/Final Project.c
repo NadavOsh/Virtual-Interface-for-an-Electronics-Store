@@ -1,7 +1,3 @@
-/*
-תובל לנגנס - 205801095
-נדב אושרוב - 318799806
-*/
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
@@ -42,5 +38,6 @@ int main()
 
 
     return 0;
+
 
 }
